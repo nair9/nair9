@@ -1,10 +1,8 @@
 ## About
-
 🔭 Passionate about transforming data into actionable insights, I am an analytics enthusiast with a talent for uncovering hidden patterns. With a robust background in data analysis and visualization, I excel at solving complex problems and bringing data to life. My expertise spans data engineering, BI reporting, and data management, ensuring comprehensive solutions for diverse challenges.
 
 
 ## Tech Stack
-
 ### Programming Languages
 - 🐍 **Python**: Proficient in using libraries such as Pandas, NumPy, SciPy, Matplotlib, and Seaborn for data analysis and visualization.
 - 🛢️ **SQL**: Skilled in writing complex queries for data manipulation and extraction.
