@@ -23,7 +23,7 @@
 - 📦 **NoSQL**: MongoDB
 
 ### Certifications
-- 🎓 **DBT Fundamentals** – DBT (May 2024)
+- 🎓 **DBT Fundamentals** (May 2024)
 - ☁️ **AWS Certified Cloud Practitioner** (July 2023)
 
 ## GitHub Stats
