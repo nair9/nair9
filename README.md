@@ -12,7 +12,7 @@
 - 🗂️ **Version Control**: Git
 - 📝 **Development Environments**: Jupyter, Linux
 - ❄️ **Data Warehousing**: Snowflake
-- 🔄 **Data Transformation**: DBT
+- 🔄 **Data Transformation**: dbt (Data Build Tool)
 - 📈 **Data Analytics**: Alteryx
 - 🗺️ **Data Modeling**: Erwin
 - 📊 **Data Visualization**: Tableau, Looker
